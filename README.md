@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently doing an MSc in Connected Environments at UCL<br>Interested in: IoT, AI, Connected Vehicles, and Smart Cities
+Computer engineer, IoT Researcher at UCL<br>Interested in: IoT, AI, Connected Vehicles, and Smart Cities
 
 
 ## 🌐 Socials:
